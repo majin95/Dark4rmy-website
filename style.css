@@ -1,0 +1,48 @@
+h1{
+    font-family: Arial, sans-serif;
+    font-size: 85px;
+    text-align: center;
+    color: antiquewhite;
+} 
+  
+
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    color: rgb(255, 247, 240);
+}
+
+p{
+    width: 270px;
+    font-size: 20px;
+    color: aliceblue;
+    
+}
+
+body{
+    background: rgb(0,0,0);
+    background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(82,0,17,1) 100%);
+    background-size: cover;
+        margin: 20px;
+        padding: 20px;
+      }
+      
+      
+      h1 {
+        
+        margin: 0px 0;
+        padding: 0;
+
+      }
+      h2 {
+        margin: 10px 0;
+        padding: 0;
+      }
+      h3 {
+      
+        margin: 10px 0;
+        padding: 0;
+       }
+      
+       
